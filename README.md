@@ -11,8 +11,6 @@ gem install httparty
 ### Executando o Projeto :dart:
 
 ```ruby
-1. Faça um clone do projeto:
-   git clone https://gitlab.com/Thialison/Marvel-API.git
 
 2. Acesse a pasta do projeto e atualize as gems:
    bundle
